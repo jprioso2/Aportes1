@@ -1,2 +1,2 @@
 # Diplomado 
-Analítica en Mercados Energéticos
+Analítica en **Mercados** **_Energéticos_**
